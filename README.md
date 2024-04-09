@@ -1,4 +1,4 @@
-# galeria-dinamica
+# Galeria Dinâmica
 
 Este projeto consiste em uma galeria de imagens dinâmica, onde os usuários podem adicionar imagens e visualizá-las em um layout de grade.
 
